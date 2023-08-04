@@ -1,0 +1,4 @@
+Name           	Author         	Reference      	Print-Year     	Genre          	Course         
+Calculus 1st   	McDougal       	123fa          	2001           	Text Book      	MATH103        
+Dexter         	Someone        	231g           	2005           	Fiction        	Lit120         
+Dummy Math     	McKenzie       	RF11           	2022           	TextBook       	MATH101        
